@@ -13,10 +13,10 @@ To translate the application you should be:
 **Edit on GitHub** 
 
 You can translate files on GitHub, use web-based instruments for file editing 
- 1. Sign up or sign in your github account
- 2. Fork the project
- 3. Make one or more well commented and clean commits to the repository.(open file, click edit, edit text and create commit with changes)
- 4. Perform a pull request in github's web interface.(click on "pull requests", select "new pull request", click "create pull request", write comment ande click on "send pull request")
+ 1. Login into your github account (or create if it not exist)
+ 2. Fork the project (click on button "Fork" on top right side on this page)
+ 3. Make changes on the localization files.(open file, click edit, edit text and create commit with changes)
+ 4. When you finish translate files, please perform a pull request in github's web interface.(click on "pull requests", select "new pull request", click "create pull request", write comment ande click on "send pull request")
 
 **About files**
 
