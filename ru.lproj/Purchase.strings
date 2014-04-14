@@ -41,3 +41,5 @@
 
 "purchase sku_ads_disabled buy button" = "Отключить рекламу за %@";
 "purchase sku_pro_mode_enabled buy button" = "Перейти в PRO режим за %@";
+
+"not available alert for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Голосовой ассистент доступен только начиная с iOS 7.0";

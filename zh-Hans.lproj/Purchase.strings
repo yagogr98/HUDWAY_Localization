@@ -41,3 +41,5 @@
 
 "purchase sku_ads_disabled buy button" = "Turn off Ads for %@";
 "purchase sku_pro_mode_enabled buy button" = "Go PRO for %@";
+
+"not available alert for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Voice Assistant is only available starting with iOS 7.0";
