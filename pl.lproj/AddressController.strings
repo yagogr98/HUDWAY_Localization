@@ -1,15 +1,15 @@
-"page title" = "Make a Route";
+"page title" = "Utwórz trasę";
 
-"back button" = "Back";
-"cancel button" = "Cancel";
+"back button" = "Cofnij";
+"cancel button" = "Anuluj";
 
-"search address placeholer" = "Enter address";
+"search address placeholer" = "Wpisz adres";
 
-"lock alert get location" = "Get location...";
+"lock alert get location" = "Pobierz lokalizację...";
 
-"empty addresses description" = "Address not found";
+"empty addresses description" = "Adres nie został znaleziony";
 
-"history addresses title" = "Frequent addresses";
+"history addresses title" = "Częste adresy";
 
-"voice recording description" = "Speak...";
-"voice recognition description" = "Processing...";
+"voice recording description" = "Mów...";
+"voice recognition description" = "Przetwarzanie...";
