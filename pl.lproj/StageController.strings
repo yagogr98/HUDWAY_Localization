@@ -6,33 +6,33 @@
 
 */
 
-"StageController Page_iPhone"       = "Route";
+"StageController Page_iPhone"       = "Trasa";
 
-"not in start place alert text"                 = "You are not on a start position";
-"not in start place for countdown alert text"   = "To start with countdown, you must be at the starting point";
+"not in start place alert text"                 = "Nie jesteś na początkowej pozycji";
+"not in start place for countdown alert text"   = "Aby rozpocząć odliczanie, musisz być w punkcie początkowym";
 
 "ok button"                         = "Ok";
-"start button"                      = "Start route";
-"cancel button"                     = "Cancel";
-"delete button"                     = "Delete route";
-"download button"                   = "Download";
-"back button"                       = "Back";
+"start button"                      = "Rozpocznij";
+"cancel button"                     = "Anuluj";
+"delete button"                     = "Usuń trasę";
+"download button"                   = "Pobierz";
+"back button"                       = "Wstecz";
 
-"map block label"                   = "The Map is not available... \n\n No results for this route. Push \"Start\" to create a route.";
-"map load label"                    = "Map loading...";
+"map block label"                   = "Mapa jest niedostępna... \n\n Brak wyników dla tej trasy. Naciśnij \"Start\" aby utworzyć trasę";
+"map load label"                    = "Ładowanie mapy...";
 
-"alert delete title"                = "Delete route?";
+"alert delete title"                = "Usunąć trasę?";
 "alert delete message"              = "";
 
-"lock alert deleting stage result"  = "Deleting...";
-"lock alert deleted stage result"   = "Done!";
+"lock alert deleting stage result"  = "Usuwanie...";
+"lock alert deleted stage result"   = "Zakończono!";
 
-"lock alert start download"         = "Loading...";
-"lock alert start save"             = "Saving...";
-"lock alert success download"       = "Done";
+"lock alert start download"         = "Ładowanie...";
+"lock alert start save"             = "Zapisywanie...";
+"lock alert success download"       = "Zakończono";
 
-"alert not download stage title"    = "Download route?";
-"alert not download stage message"  = "This route saved in the online storage. Before to start it, it must be downloaded";
+"alert not download stage title"    = "Pobrać trasę?";
+"alert not download stage message"  = "Ta trasa została zapisana w bazie onlinej. Przed rozpoczęciem, musi zostać pobrana.";
 
-"no free system space alert title"   = "Unable to download the route";
-"no free system space alert message" = "To download the route is not enough memory. Storage location can be controlled in the settings";
+"no free system space alert title"   = "Nie można pobrać trasy";
+"no free system space alert message" = "Nie masz wystarczająco pamięci by pobrać trasę. Miejsce przechowywania może być kontrolowane w ustawieniach";
