@@ -6,8 +6,8 @@
 
 */
 
-"MyStagesMenuItem"  = "Routes";
-"NearbyMenuItem"    = "Explore";
-"StoreMenuItem"     = "Upgrade";
-"SettingsMenuItem"  = "Settings";
-"RoutingMenuItem"   = "Build a route";
+"MyStagesMenuItem"  = "Trasy";
+"NearbyMenuItem"    = "Odkrywaj";
+"StoreMenuItem"     = "Aktualizacja";
+"SettingsMenuItem"  = "Ustawienia";
+"RoutingMenuItem"   = "Utwórz trasę";
