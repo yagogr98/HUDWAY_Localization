@@ -1,108 +1,108 @@
-"SurfaceType0" = "Gravel";
-"SurfaceType1" = "Tarmac";
-"SurfaceType2" = "Ice";
-"SurfaceType3" = "Forest";
-"SurfaceType4" = "Water";
-"SurfaceType5" = "Air";
+"SurfaceType0" = "Żwir";
+"SurfaceType1" = "Asfalt";
+"SurfaceType2" = "Lód";
+"SurfaceType3" = "Las";
+"SurfaceType4" = "Woda";
+"SurfaceType5" = "Powietrze";
 
-"VehicleType0" = "Car";
-"VehicleType1" = "Motorcycle";
-"VehicleType2" = "Bicycle";
-"VehicleType3" = "Run/Walk";
-"VehicleType4" = "Airplane";
-"VehicleType5" = "Helicopter";
-"VehicleType6" = "Ship";
+"VehicleType0" = "Samochód";
+"VehicleType1" = "Motocykl";
+"VehicleType2" = "Rower";
+"VehicleType3" = "Bieganie/Chodzenie";
+"VehicleType4" = "Samolot";
+"VehicleType5" = "Helikopter";
+"VehicleType6" = "Statek";
 
-"SpeedUnit0" = "Kilometers";
-"SpeedUnit1" = "Miles and yards";
-"SpeedUnit2" = "Miles and feet";
+"SpeedUnit0" = "Kilometry";
+"SpeedUnit1" = "Mile i jardy";
+"SpeedUnit2" = "Mile i stopy";
 
-"HUDWAYGlassDevice0" = "Disabled";
-"HUDWAYGlassDevice1" = "Enabled";
+"HUDWAYGlassDevice0" = "Wyłączone";
+"HUDWAYGlassDevice1" = "Włączone";
 
-"Countdown0" = "3 seconds";
-"Countdown1" = "5 seconds";
-"Countdown2" = "10 seconds";
-"Countdown3" = "15 seconds";
-"Countdown4" = "30 seconds";
-"Countdown5" = "1 minute";
-"Countdown6" = "2 minutes";
-"Countdown7" = "3 minutes";
-"Countdown8" = "4 minutes";
-"Countdown9" = "5 minutes";
+"Countdown0" = "3 sekundy";
+"Countdown1" = "5 sekund";
+"Countdown2" = "10 sekund";
+"Countdown3" = "15 sekund";
+"Countdown4" = "30 sekund";
+"Countdown5" = "1 minuta";
+"Countdown6" = "2 minuty";
+"Countdown7" = "3 minuty";
+"Countdown8" = "4 minuty";
+"Countdown9" = "5 minut";
 
-"CountdownShort0" = "3 sec";
-"CountdownShort1" = "5 sec";
-"CountdownShort2" = "10 sec";
-"CountdownShort3" = "15 sec";
-"CountdownShort4" = "30 sec";
+"CountdownShort0" = "3 sek";
+"CountdownShort1" = "5 sek";
+"CountdownShort2" = "10 sek";
+"CountdownShort3" = "15 sek";
+"CountdownShort4" = "30 sek";
 "CountdownShort5" = "1 min";
 "CountdownShort6" = "2 min";
 "CountdownShort7" = "3 min";
 "CountdownShort8" = "4 min";
 "CountdownShort9" = "5 min";
 
-"PublishType0" = "No";
-"PublishType1" = "Yes";
+"PublishType0" = "Nie";
+"PublishType1" = "Tak";
 
-"UserLoginType0"        = "Unknown";
+"UserLoginType0"        = "Nieznany";
 "UserLoginTypeFacebook" = "Facebook";
 "UserLoginTypeTwitter"  = "Twitter";
 "UserLoginTypeGidme"    = "HudWayApp.com";
 
-"AutoLock0" = "System preferences";
-"AutoLock1" = "Turn off while driving";
-"AutoLock2" = "Turn off";
+"AutoLock0" = "Preferencje systemowe";
+"AutoLock1" = "Wyłącz podczas jazdy";
+"AutoLock2" = "Wyłącz";
 
 "MapService0" = "Google";
 "MapService1" = "Apple + Open Street Map";
 
-"VoiceAssistantLevel0" = "Say all";
-"VoiceAssistantLevel1" = "Medium turns and steeper";
-"VoiceAssistantLevel2" = "Only hard and steeper";
+"VoiceAssistantLevel0" = "Mów wszystko";
+"VoiceAssistantLevel1" = "Średnie zakręty i strome";
+"VoiceAssistantLevel2" = "Tylko ostre i strome";
 
 //-------------------------------
-"propertyTitleSettingsPropTypeCurrentUserName"      = "My Profile";
-"propertyTitleSettingsPropTypeSpeedUnits"           = "Units";
-"propertyTitleSettingsPropTypeCountdown"            = "Countdown";
-"propertyTitleSettingsPropTypeAutoLock"             = "Auto-Lock";
-"propertyTitleSettingsPropTypeMapService"           = "Maps and direction";
-"propertyTitleSettingsPropTypeVoiceAssistantLevel"  = "Level of detail";
+"propertyTitleSettingsPropTypeCurrentUserName"      = "Mój profil";
+"propertyTitleSettingsPropTypeSpeedUnits"           = "Jednostki";
+"propertyTitleSettingsPropTypeCountdown"            = "Odliczanie";
+"propertyTitleSettingsPropTypeAutoLock"             = "Auto-blokada";
+"propertyTitleSettingsPropTypeMapService"           = "Mapy i kierunki";
+"propertyTitleSettingsPropTypeVoiceAssistantLevel"  = "Poziom szczegółów";
 
 "propertyPlaceholderSettingsPropTypeCurrentUserName"= "";
 
 //-------------------------------
-"propertyTitleUserPropTypeName"                 = "User";
-"propertyTitleUserPropTypeCreatedStages"        = "Created Routes";
-"propertyTitleUserPropTypeCreatedStagesResults" = "Number of results";
-"propertyTitleUserPropTypeUsedLoginType"        = "Login with";
+"propertyTitleUserPropTypeName"                 = "Użytkownik";
+"propertyTitleUserPropTypeCreatedStages"        = "Utworzone trasy";
+"propertyTitleUserPropTypeCreatedStagesResults" = "Liczba wyników";
+"propertyTitleUserPropTypeUsedLoginType"        = "Zalogowany przez";
 "propertyTitleUserPropTypeEmail"                = "";
 "propertyTitleUserPropTypePassword"             = "";
 "propertyTitleUserPropTypeConfirmPassword"      = "";
 
-"propertyPlaceholderUserPropTypeName"           = "Tap to give a name";
+"propertyPlaceholderUserPropTypeName"           = "Dotknij, aby podać nazwę";
 "propertyPlaceholderUserPropTypeEmail"          = "E-mail";
-"propertyPlaceholderUserPropTypePassword"       = "Password";
+"propertyPlaceholderUserPropTypePassword"       = "Hasło";
 
-"propertyKetboardPlaceholderUserPropTypeName"       = "Enter name";
-"propertyKetboardPlaceholderUserPropTypeEmail"      = "Enter e-mail";
-"propertyKetboardPlaceholderUserPropTypePassword"   = "Enter password";
+"propertyKetboardPlaceholderUserPropTypeName"       = "Wpisz imię nazwę";
+"propertyKetboardPlaceholderUserPropTypeEmail"      = "Wpisz e-mail";
+"propertyKetboardPlaceholderUserPropTypePassword"   = "Wpisz hasło";
 
 //-------------------------------
-"propertyTitleSpecialSectorPropTypeName"            = "Title";
-"propertyTitleSpecialSectorPropTypeDescription"     = "Description";
-"propertyTitleSpecialSectorPropTypeDistance"        = "Distance";
-"propertyTitleSpecialSectorPropTypeTime"            = "Time";
-"propertyTitleSpecialSectorPropTypeStartDateTime"   = "Start time";
-"propertyTitleSpecialSectorPropTypeSurfaceType"     = "Surface";
+"propertyTitleSpecialSectorPropTypeName"            = "Tytuł";
+"propertyTitleSpecialSectorPropTypeDescription"     = "Opis";
+"propertyTitleSpecialSectorPropTypeDistance"        = "Dystans";
+"propertyTitleSpecialSectorPropTypeTime"            = "Czas";
+"propertyTitleSpecialSectorPropTypeStartDateTime"   = "Czas rozpoczęcia";
+"propertyTitleSpecialSectorPropTypeSurfaceType"     = "Powierzchnia";
 "propertyTitleSpecialSectorPropTypeStartLat"        = "";
 "propertyTitleSpecialSectorPropTypeStartLon"        = "";
 "propertyTitleSpecialSectorPropTypeTracksCount"     = "";
-"propertyTitleSpecialSectorPropTypeUserAuthorName"  = "Author";
-"propertyTitleSpecialSectorPropTypeUserWinnerName"  = "Winner";
+"propertyTitleSpecialSectorPropTypeUserAuthorName"  = "Autor";
+"propertyTitleSpecialSectorPropTypeUserWinnerName"  = "Zwycięzca";
 
-"propertyPlaceholderSpecialSectorPropTypeName"          = "Tap to give a title";
-"propertyPlaceholderSpecialSectorPropTypeDescription"   = "Tap to enter description";
+"propertyPlaceholderSpecialSectorPropTypeName"          = "Dotknij, aby podać tytuł";
+"propertyPlaceholderSpecialSectorPropTypeDescription"   = "Dotknij, aby wpisać opis";
 "propertyPlaceholderSpecialSectorPropTypeDistance"      = "";
 "propertyPlaceholderSpecialSectorPropTypeTime"          = "";
 "propertyPlaceholderSpecialSectorPropTypeStartDateTime" = "";
@@ -111,8 +111,8 @@
 "propertyPlaceholderSpecialSectorPropTypeStartLon"      = "";
 "propertyPlaceholderSpecialSectorPropTypeTracksCount"   = "";
 
-"propertyKetboardPlaceholderSpecialSectorPropTypeName"          = "Enter name";
-"propertyKetboardPlaceholderSpecialSectorPropTypeDescription"   = "Enter description";
+"propertyKetboardPlaceholderSpecialSectorPropTypeName"          = "Wpisz nazwę";
+"propertyKetboardPlaceholderSpecialSectorPropTypeDescription"   = "Wpisz opis";
 "propertyKetboardPlaceholderSpecialSectorPropTypeDistance"      = "";
 "propertyKetboardPlaceholderSpecialSectorPropTypeTime"          = "";
 "propertyKetboardPlaceholderSpecialSectorPropTypeStartDateTime" = "";
@@ -123,20 +123,20 @@
 
 //-------------------------------
 "propertyTitleTrackPropTypeName"                    = "";
-"propertyTitleTrackPropTypeDate"                    = "Date";
-"propertyTitleTrackPropTypeTime"                    = "Time";
-"propertyTitleTrackPropTypeDistance"                = "Distance";
-"propertyTitleTrackPropTypeMaxSpeed"                = "Top speed";
-"propertyTitleTrackPropTypeAverageSpeed"            = "Average speed";
-"propertyTitleTrackPropTypeVehicleType"             = "Vehicle";
-"propertyTitleTrackPropTypeDescription"             = "Description";
-"propertyTitleTrackPropTypeUserAuthorName"          = "User";
-"propertyTitleTrackPropTypePublishStatus"           = "Published";
+"propertyTitleTrackPropTypeDate"                    = "Data";
+"propertyTitleTrackPropTypeTime"                    = "Czas";
+"propertyTitleTrackPropTypeDistance"                = "Dystans";
+"propertyTitleTrackPropTypeMaxSpeed"                = "Max. prędkość";
+"propertyTitleTrackPropTypeAverageSpeed"            = "Średnia prędkość";
+"propertyTitleTrackPropTypeVehicleType"             = "Pojazd";
+"propertyTitleTrackPropTypeDescription"             = "Opis";
+"propertyTitleTrackPropTypeUserAuthorName"          = "Użytkownik";
+"propertyTitleTrackPropTypePublishStatus"           = "Opublikowany";
 "propertyTitleTrackPropTypeAccelerationTo100KmH"    = "0-100 km/h";
 "propertyTitleTrackPropTypeAccelerationTo60MPH"     = "0-60 mph";
 
-"propertyPlaceholderTrackPropTypeName"          = "Tap to give a name";
-"propertyPlaceholderTrackPropTypeDescription"   = "Description";
+"propertyPlaceholderTrackPropTypeName"          = "Dotknij, aby wpisać nazwę";
+"propertyPlaceholderTrackPropTypeDescription"   = "Opis";
 
-"propertyKetboardPlaceholderTrackPropTypeName"          = "Enter name";
-"propertyKetboardPlaceholderTrackPropTypeDescription"   = "Enter description";
+"propertyKetboardPlaceholderTrackPropTypeName"          = "Wpisz nazwę";
+"propertyKetboardPlaceholderTrackPropTypeDescription"   = "Wpisz opis";
