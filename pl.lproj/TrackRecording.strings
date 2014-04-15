@@ -1,9 +1,9 @@
-"location services access dialog message" = "The application use GPS to record youre routes";
+"location services access dialog message" = "Aplikacja używa GPS do rejestrowania Twoich tras";
 
-"cancel button" = "Close";
-"ok button" = "Done";
+"cancel button" = "Zamknij";
+"ok button" = "Zrobione";
 
-"user disabled location service alert title" = "Can't record the Route";
+"user disabled location service alert title" = "Nie można zapisać trasy";
 "user disabled location service for application alert message" = "Please provide an access to the Location services for this application. Go to Location services Settings, find 'Check My Race' and switch it 'On'";
 "user disabled location service for device alert message" = "The Location services is switched off. Go to Location services Settings and switch it 'On'.";
 "user disabled location service for device alert message android" = "The Location services is switched off. Go to Location services Settings and switch it 'On' for all services.";
