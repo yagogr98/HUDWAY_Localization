@@ -9,8 +9,8 @@
 "user disabled location service for device alert message android" = "Usługa lokalizacji jest wyłączona. Idź do Ustawień Usług lokalizacji i przełącz na 'On'";
 
 "no free system space alert title" = "Nie można zarejestrować trasy";
-"no free system space alert message" = "To record the route is not enough memory. Storage location can be controlled in the settings";
+"no free system space alert message" = "Nie masz wystarczająco pamięci by zarejestrować trasę. Miejsce przechowywania może być kontrolowane w ustawieniach";
 
-"can't write empty track alert" = "No distance, route results can't be saved";
+"can't write empty track alert" = "Nie pokonałeś żadnego dystansu, trasa nie może być zapisana";
 
-"settings button android" = "Settings";
+"settings button android" = "Ustawienia";
