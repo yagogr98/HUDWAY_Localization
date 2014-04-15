@@ -1,28 +1,28 @@
-"track table cell title format" = "%@ in %@";
+"track table cell title format" = "%@ w %@";
 
-"back button" = "Back";
-"cancel button" = "Cancel";
-"no button" = "No";
-"yes button" = "Yes";
+"back button" = "Confij";
+"cancel button" = "Anuluj";
+"no button" = "Nie";
+"yes button" = "Tak";
 
-"my stage results title format" = "My results: %d";
-"my stage results description format" = "time %@ / avg. speed %@";
+"my stage results title format" = "Moje wyniki: %d";
+"my stage results description format" = "czas %@ / śr. prędkość %@";
 
-"leaderboard wait title" = "Please wait...";
-"leaderboard wait description" = "get data";
+"leaderboard wait title" = "Proszę czekać...";
+"leaderboard wait description" = "pobiera dane";
 
-"leaderboard title format" = "Best result %@";
-"leaderboard description format" = "for %@ of %d results";
+"leaderboard title format" = "Najlepszy wynik %@";
+"leaderboard description format" = "dla %@ z %d wyników";
 
-"leaderboard not available title" = "Leader board is not available";
-"leaderboard not available description" = "can't get data";
+"leaderboard not available title" = "Ranking nie jest dostępny";
+"leaderboard not available description" = "nie można pobrać danych";
 
-"alert remote service error message" = "Can't get data. Error with Internet connection";
-"alert exit message android" = "Do you want to exit?";
+"alert remote service error message" = "Nie można pobrać danych. Błąd z dostępem do Internetu";
+"alert exit message android" = "Chcesz wyjść?";
 
-"cancel alert title" = "Cancel?";
+"cancel alert title" = "Anulować?";
 
-"loading progress label" = "Loading...";
+"loading progress label" = "Ładowanie...";
 
 "ok button" = "OK";
 
