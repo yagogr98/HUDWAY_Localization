@@ -1,38 +1,39 @@
 Application title on AppStore:
-HUDWAY road windshield projection Head-Up Display HUD for drivers
+HUDWAY projekcja na przedniej szybie - wyświetlacz HUD dla kierowców
 
 Application description on AppStore:
-HUDWAY is a free augmented reality app that helps drivers follow directions in fog, snow, rain and at night via windshield projections.
+HUDWAY jest darmową aplikacją rozszerzająca rzeczywistość, która pomaga kierowcom we mgle, deszczu i śniegu, w nocy poprzez projekcje na przedniej szybie samochodu.
 
-«HUDWAY turns your windshield into a jet fighter cockpit»
+«HUDWAY zamienia przednią szybę w kokpit myśliwca»
 — digitaltrends.com
 
-«The Hudway HUD tool will remind you nothing less than a science fiction movie that you watched recently»
+«Narzędnie Hudway HUD przypomni Ci nie mniej film sciene fiction który ostatnio oglądałeś»
 — crazyengineers.com
 
-«Looks awesome, and it's surprising that no one come up with that kind of app before. HUDWAY can do what others can't»
+«Wygląda świetnie i to niemożliwe, że nikt nie wpadł na tego rodzaju aplikację wcześniej. HUDWAY może robić to czego inni nie mogą »
 — lifehacker.ru
 
-«HUDWAY is a rare case of a really elegant and unexpected use of smartphone»
+«HUDWAY jest rzadkim przypadkiem naprawdę eleganckiego i nieoczekiwanego użycia smartfonu»
 — Apple community @ vk.com
 
-With the HUDWAY app, drivers can now navigate the road with both hands on the wheel and mind on driving. HUDWAY outlines the road ahead with turn-by-turn directions, and displays it on the windshield using head-up technology — details like speed, distance, and driving instructions are displayed in different light.
+Z aplikacją HUDWAY, kierowcy mogą poruszać się z obiema rękami na kierownicy i myśleć o prowadzeniu. HUDWAY zarysowuje drogę przed Tobą, zakręt po zakręcie i wyświetla to na przednie szybie używając technologi head-up - detale takie jak szybkość, dystans czy instrukcje jazdy są wyświetlane w różnych jasnościach.
  
-If you are foreign to concept of head-up technology, it is a display that presents information without requiring users to look away from their usual viewpoints.
+Jeśli jest Ci obce pojęcie technologii head-hup (HUD) - jest to wyświetlacz, który prezentuje informacje bez potrzeby patrzenia i szukania ich, a które są po za obszarem twojego widzenia.
  
-It works off the back of most popular Map services. You build a route on the map, which the app then preloads so it can be used offline — useful if connection is intermittent or you don't want to use data.
+Na tej podstawie działają też najpopularniejsze usługi map. Budujesz trasę na mapie, następnie aplikacja wstępnie ją przygotowuje, więc może być używana offline - przydatne jeśli połączenie z internetem jest sporadyczne lub nie chcesz z niego korzystać.
  
-The HUDWAY does not require any other equipment other than your smartphone. Just place your phone on the dashboard and the glare from the window will reflect what is displayed on the screen of the phone. This feature would work best in low visibility conditions, such as nighttime, rain, fog, or even heavy snow.
+HUDWAY nie wymaga żadnego innego sprzętu oprócz smatfonu. Wystarczy, że położysz telefon na na desce rozdzielczej i odbicie na szybie będzie odzwierciedalć to co pojawia się na ekranie telefonu. Funkcja ta będzie najlepiej działać w warunkach ograniczonej widoczności np. w nocy, podczas deszczu, mgły czy nawet śnieżycy.
 
 Attention: This app uses a background mode. Continued use of GPS and Audio-services running in the background can dramatically decrease battery life.
+UWAGA: Aplikacja używa trybu tła. Kontynuowanie z użyciem GPS i audio uruchomionym w tle może drastycznie zmniejszyć żywotność baterii.
 
-Join our Facebook page: 
+Dołącz do nas na Facebooku: 
 https://www.facebook.com/hudwayapp 
 
-Follow us on Twitter: 
+Dołącz do nas na Twitterze: 
 https://twitter.com/hudwayapp 
 
-For more information visit our homepage: 
+Aby dowiedzieć się więcej odwiedź naszą stronę: 
 http://hudwayapp.com 
 
-Drive Safely!
+Szerokiej drogi!
