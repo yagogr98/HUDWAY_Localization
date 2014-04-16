@@ -1,32 +1,32 @@
-"finish stage win alert title"          = "Congratulations!";
+"finish stage win alert title"          = "Gratulacje!";
 "finish stage not win alert title"      = "Sorry";
-"finish stage win message format"       = "%@ this is your best route result";
-"finish stage not win message format"   = "Your time is worse than %@";
+"finish stage win message format"       = "%@ to jest twój najlepszy wynik";
+"finish stage not win message format"   = "Twój czas jest gorszy niż %@";
 
-"finish geo track alert message"        = "You have arrived at the destination";
+"finish geo track alert message"        = "Dotarłeś w docelowe miejsce";
 
 "start text"                            = "START!";
 
-"brightnes label"                       = "Brightness";
-"perspective label"                     = "Camera in advance %@";
+"brightnes label"                       = "Jasność";
+"perspective label"                     = "Kamera w odległości %@";
 
-"cancel button"                         = "Cancel";
-"skip button"                           = "Skip";
-"recalculation button"                  = "Recalculate";
-"close button"                          = "Close";
+"cancel button"                         = "Anuluj";
+"skip button"                           = "Pomiń";
+"recalculation button"                  = "Przeliczanie";
+"close button"                          = "Zamknij";
 "hud page button"                       = "HUD";
-"map page button"                       = "Map";
-"hud button"                            = "Head-Up Display Mode";
+"map page button"                       = "Mapa";
+"hud button"                            = "Odwróć tryb wyświetlania";
 
-"insert into route description"         = "Enter on route to start";
-"out of route description"              = "You left from\r\nthe route!";
-"recalculate route description"         = "Route\r\nrecalculation";
-"bad internet connection description"   = "Bad internet connection";
+"insert into route description"         = "Wjedź na trasę, żeby rozpocząć";
+"out of route description"              = "Opuściłeś\r\ntrasę!";
+"recalculate route description"         = "Przeliczanie\r\ntrasy";
+"bad internet connection description"   = "Błędne połączenie internetowe";
 
-"close alert title"                     = "Select before exiting";
-"cancel button"                         = "Cancel";
-"save button"                           = "Save";
-"don't save button"                     = "Don't save";
+"close alert title"                     = "Wybierz przed zamknięciem";
+"cancel button"                         = "Anuluj";
+"save button"                           = "Zapisz";
+"don't save button"                     = "Nie zapisuj";
 
-"lock alert deleting stage result"      = "Delete data...";
-"lock alert deleted stage result"       = "Done!";
+"lock alert deleting stage result"      = "Usuwanie danych...";
+"lock alert deleted stage result"       = "Zrobione!";

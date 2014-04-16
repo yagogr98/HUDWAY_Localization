@@ -6,24 +6,24 @@
 
 */
 
-"error #330 message" = "This stage result already published";
-"error #332 message" = "This action is necessary so that the result has been sent to hudwayapp.com";
-"error #333 message" = "Failed to send email, try again later";
+"error #330 message" = "Wyniki etau zostały właśnie opublikowane";
+"error #332 message" = "Działanie to jest konieczne, aby wynik został wysłany do hudwayapp.com";
+"error #333 message" = "Nie udało się wysłać email, spróbuj ponownie później";
 
-"action SocialActionPublishStageResult description" = "Publishing route results...";
+"action SocialActionPublishStageResult description" = "Publikowanie wyników trasy...";
 
-"mail html message format" = "<p>I just drove safely using HUDWAY app</p><p>Name: %@</p><p>Time: %@</p><p>Avg. speed: %@</p><p>Max. speed: %@</p><p>%@: %@</p><p><a href='%@'>Look at HUDWAYAPP.com</a></p>";
-"mail subject" = "some subject";
+"mail html message format" = "<p>Właśnie przejechaliśmy bezpiecznie używając HUDWAY app</p><p>Nazwa: %@</p><p>Czas: %@</p><p>Średnia prędkość: %@</p><p>Maks. prędkość: %@</p><p>%@: %@</p><p><a href='%@'>Zobacz na HUDWAYAPP.com</a></p>";
+"mail subject" = "jakiś temat";
 "0-60mi" = "0-60mph";
 "0-100km" = "0-100kmh";
 "sec" = "sec";
 
-"empty user name" = "User unknown";
+"empty user name" = "Użytkownik nieznany";
 
-"error alert title" = "Error";
-"need login alert title" = "Need login";
+"error alert title" = "Błąd";
+"need login alert title" = "Potrzebny login";
 "need login alert message" = "";
 
 "ok button" = "OK";
-"cancel button" = "Cancel";
-"login button" = "Login";
+"cancel button" = "Anuluj";
+"login button" = "Zaloguj";

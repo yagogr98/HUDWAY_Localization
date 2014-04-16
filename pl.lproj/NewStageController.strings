@@ -1,11 +1,11 @@
-"page title"    = "New route";
+"page title"    = "Nowa trasa";
 
-"can't save stage text"             = "Can't save route with empty name";
-"alert delete title"                = "Delete route?";
+"can't save stage text"             = "Nie można zapisać trasy z pustą nazwą";
+"alert delete title"                = "Usunąć trasę?";
 "alert delete message"              = "";
 
-"cancel button"                     = "Cancel";
-"save button"                       = "Add";
+"cancel button"                     = "Anuluj";
+"save button"                       = "Dodaj";
 
-"lock alert get address"            = "Get address...";
-"lock alert deleting stage result"  = "Delete data...";
+"lock alert get address"            = "Pobierz adres...";
+"lock alert deleting stage result"  = "Usuwanie danych...";

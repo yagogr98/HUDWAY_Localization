@@ -1,16 +1,16 @@
-"mapTypeStandard"   = "Standard";
-"mapTypeHybrid"     = "Hybrid";
-"mapTypeSatellite"  = "Satellite";
+"mapTypeStandard"   = "Standardowa";
+"mapTypeHybrid"     = "Hybryda";
+"mapTypeSatellite"  = "Satelita";
 
-"current position button title" = "Current";
-"start position button title"   = "Begin of route";
-"finish position button title"   = "End of route";
+"current position button title" = "Aktualna";
+"start position button title"   = "Początek trasy";
+"finish position button title"   = "Koniec trasy";
 
-"map type label" = "Map type";
-"map position label" = "Map position";
+"map type label" = "Typ mapy";
+"map position label" = "Pozycja na mapie";
 
-"map settings title" = "Map settings";
+"map settings title" = "Ustawienia mapy";
 
-"routing options title" = "Make a route";
-"set start position button" = "Directions from Here";
-"set finish position button" = "Directions to Here";
+"routing options title" = "Utwórz trasę";
+"set start position button" = "Z tego miejsca";
+"set finish position button" = "Do tego miejsca";

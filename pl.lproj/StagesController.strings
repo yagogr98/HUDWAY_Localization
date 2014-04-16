@@ -1,13 +1,13 @@
-"StagesController Page_iPhone"  = "Routes";
+"StagesController Page_iPhone"  = "Trasy";
 
-"quick start button title"      = "Record route";
+"quick start button title"      = "Rejestruj trasę";
 
-"lock alert deleting stage"     = "Deleting...";
+"lock alert deleting stage"     = "Usuwanie...";
 
-"empty stages description"      = "This is the place\nwhere your routes\nwill be shown\n\n\nPress \"Record route\"\nto create new route";
+"empty stages description"      = "To jest miejsce\ngdzie Twoje drogi\nzostaną pokazane\n\n\nNaciśnij \"Rejestruj trasę\"\naby utworzyć nową";
 
-"loading"    					= "Loading...";
+"loading"    					= "Ładowanie...";
 
-"delete button"    				= "Delete";
+"delete button"    				= "Usuń";
 
-"menu title"    				= "Select an action";
+"menu title"    				= "Zaznacz";

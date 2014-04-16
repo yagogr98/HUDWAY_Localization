@@ -1,5 +1,4 @@
-
-"restore alert title" = "Detected an incomplete journey";
-"restore alert message" = "What to do with trip data?";
-"delete button" = "Delete";
-"save button" = "Save";
+"restore alert title" = "Wykryto niekompletną podróż";
+"restore alert message" = "Co zrobić z danymi podróży?";
+"delete button" = "Usuń";
+"save button" = "Zapisz";

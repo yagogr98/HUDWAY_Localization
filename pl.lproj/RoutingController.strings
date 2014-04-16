@@ -1,33 +1,33 @@
-"RoutingController Page_iPhone" = "Build a route";
+"RoutingController Page_iPhone" = "Utwórz trasę";
 
-"from placeholder" = "From";
-"to placeholder" = "To";
+"from placeholder" = "Z";
+"to placeholder" = "Do";
 
-"create route button" = "Build a route";
+"create route button" = "Utwórz trasę";
 "start ride to route button" = "Start";
-"cancel button" = "Cancel";
+"cancel button" = "Anuluj";
 
-"set start position button" = "Directions from Here";
-"set finish position button" = "Directions to Here";
+"set start position button" = "Z tego miejsca";
+"set finish position button" = "Do tego miejsca";
 
-"lock alert get current location" = "Get current location...";
-"lock alert get geo tracks" = "Building a route...";
-"lock alert preparation to start" = "Preparing the route...";
+"lock alert get current location" = "Pobierz aktualną lokalizację...";
+"lock alert get geo tracks" = "Tworzenie trasy...";
+"lock alert preparation to start" = "Przygotowywanie trasy...";
 
-"lock alert get extended geo track" = "Loading a route...";
-"lock alert get extended geo track progress format" = "Progress — %d%%";
+"lock alert get extended geo track" = "Ładowanie trasy...";
+"lock alert get extended geo track progress format" = "Postęp — %d%%";
 
-"lock alert save geo track" = "Saving a route...";
-"lock alert save geo track success" = "Saved in routes";
+"lock alert save geo track" = "Zapisywanie trasy...";
+"lock alert save geo track success" = "Trasa została zapisana";
 
-"empty stages description" = "There are currently no recorded routes\n\nYou can create new route by tapping the button below";
-"empty stages button" = "Record a route!";
+"empty stages description" = "Obecnie nie masz zapisanych tras\n\nMożesz utworzyć nową trasę, naciskając przycisk poniżej";
+"empty stages button" = "Zapisz trasę!";
 
-"find address name title" = "      searching...";
+"find address name title" = "      wyszukiwanie...";
 
 "map action sheet title" = "";
 
 "start title" = "Start:";
-"finish title" = "End:";
+"finish title" = "Koniec:";
 
-"unknow address title" = "Unknow address";
+"unknow address title" = "Nieznany adres";

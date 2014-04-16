@@ -6,10 +6,10 @@
 
 */
 
-"post stage tweet format" = "Drove to %@ with #HUDWAY app. Distance %@, Time %@, Avr. speed %@ %@";
+"post stage tweet format" = "Podróż do %@ z aplikacją #HUDWAY. Dystans %@, Czas %@, Śr. prędkość %@ %@";
 
-"error #310 message" = "Unable to log in Twitter. An error in Internet connection";
-"error #311 message" = "Unable to log in. In System Twitter is not set";
-"error #312 message" = "Unable to publish action to Twitter. Try again later";
+"error #310 message" = "Nie można zalogować się na Twittera. Błędne połączenie internetowe";
+"error #311 message" = "Nie można się zalogować. W systemie Twitter nie jest ustawiony";
+"error #312 message" = "Nie można opublikować trasy na Twitterze. Spróbuj ponownie później";
 
-"action TWSocialActionPostStageResult description" = "Sharing to Twitter..";
+"action TWSocialActionPostStageResult description" = "Udostępnij na Twitterze..";

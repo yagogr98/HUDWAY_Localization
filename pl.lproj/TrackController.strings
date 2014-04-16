@@ -1,25 +1,25 @@
-"back button"                               = "Back";
+"back button"                               = "Wstecz";
 
 "share label text"                          = "";
 
-"cancel button"                             = "Cancel";
+"cancel button"                             = "Anuluj";
 "ok button"                                 = "OK";
-"publish to remote service button"          = "Send to hudwayapp.com";
-"republish to remote service button"        = "Resend to hudwayapp.com";
-"send to email button"                      = "Share via e-mail";
-"open in browser button"                    = "Open in Safari";
-"open in browser button android"            = "Open in Browser";
-"delete button title"                       = "Delete";
+"publish to remote service button"          = "Wyślij do hudwayapp.com";
+"republish to remote service button"        = "Wyślij ponownie do hudwayapp.com";
+"send to email button"                      = "Udostępnij emailem";
+"open in browser button"                    = "Otwórz w Safari";
+"open in browser button android"            = "Otwórz w przeglądarce";
+"delete button title"                       = "Usuń";
 
-"lock alert publish start"                  = "Publishing route results...";
-"lock alert send to facebook start"         = "Sharing to Facebook...";
-"lock alert send to twitter start"          = "Sharing to Twitter...";
-"lock alert publish success"                = "Success!";
-"lock alert deleting stage result"          = "Deleting...";
-"lock alert deleted stage result"           = "Done!";
-"lock alert saving track"                   = "Saving...";
+"lock alert publish start"                  = "Publikowanie wyników trasy...";
+"lock alert send to facebook start"         = "Udostępnij na Facebooku...";
+"lock alert send to twitter start"          = "Udostępnij na Twitterze...";
+"lock alert publish success"                = "Sukces!";
+"lock alert deleting stage result"          = "Usuwanie...";
+"lock alert deleted stage result"           = "Zrobione!";
+"lock alert saving track"                   = "Zapisywanie...";
 
-"alert delete title"                        = "Delete route results?";
-"alert delete message"                      = "There will delete all travel data on the route";
+"alert delete title"                        = "Usunąć wyniki trasy?";
+"alert delete message"                      = "Zostaną usunięte wszystkie dane podróży na trasie";
 
-"share with friends title"                  = "Share";
+"share with friends title"                  = "Udostępnij";

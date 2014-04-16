@@ -1,5 +1,6 @@
-"title" = "Welcome to HUDWAY";
+"title" = "Witamy w HUDWAY";
 
-"agree button" = "I agree";
+"agree button" = "Zgadzam się";
 
-"rules description" = "\nUsing this application, you accept the following terms of use.\n\nYour use of this real time route guidance application is at  your sole risk. Location data may not  be accurate. \n\nRightsholder does not provide any guarantee as to the accuracy or completeness of the card used. And is not liable for any damage incurred due use of the application HUDWAY.\n\nWe recommend being careful on the road and trusting only your eyes.";
+"rules description" = "\nUżywając tę aplikację, akceptujesz warunki z jej korzystania.\n\nUżywając jej w czasie rzeczywistym stosujesz się do wskazówek o trasie na własne ryzyko. Dane o lokalizacji mogą być niedokładne. \n\nAutor nie zapewnia żadnej gwarancji co do dokładności lub kompletności. I nie ponosi odpowiedzialności za szkody powstałe w wyniku korzystania z aplikacji HUDWAY.\n\nZalecamy uważać na drodze i ufać jedynie swoim oczom.";
+
