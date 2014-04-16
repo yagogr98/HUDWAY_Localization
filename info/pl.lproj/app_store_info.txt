@@ -24,7 +24,6 @@ Na tej podstawie działają też najpopularniejsze usługi map. Budujesz trasę 
  
 HUDWAY nie wymaga żadnego innego sprzętu oprócz smatfonu. Wystarczy, że położysz telefon na na desce rozdzielczej i odbicie na szybie będzie odzwierciedalć to co pojawia się na ekranie telefonu. Funkcja ta będzie najlepiej działać w warunkach ograniczonej widoczności np. w nocy, podczas deszczu, mgły czy nawet śnieżycy.
 
-Attention: This app uses a background mode. Continued use of GPS and Audio-services running in the background can dramatically decrease battery life.
 UWAGA: Aplikacja używa trybu tła. Kontynuowanie z użyciem GPS i audio uruchomionym w tle może drastycznie zmniejszyć żywotność baterii.
 
 Dołącz do nas na Facebooku: 
