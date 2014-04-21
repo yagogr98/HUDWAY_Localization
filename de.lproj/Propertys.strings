@@ -57,9 +57,9 @@
 "MapService0" = "Google";
 "MapService1" = "Apple + Open Street Map";
 
-"VoiceAssistantLevel0" = "Say all";
-"VoiceAssistantLevel1" = "Medium turns and steeper";
-"VoiceAssistantLevel2" = "Only hard and steeper";
+"VoiceAssistantLevel0" = "Alles ansagen";
+"VoiceAssistantLevel1" = "Kurven, Gefälle und Steigungen";
+"VoiceAssistantLevel2" = "Enge Kurven und große Gefälle oder Steigungen";
 
 //-------------------------------
 "propertyTitleSettingsPropTypeCurrentUserName"      = "Meine Daten";
@@ -67,7 +67,7 @@
 "propertyTitleSettingsPropTypeCountdown"            = "Countdown";
 "propertyTitleSettingsPropTypeAutoLock"             = "Auto-Lock";
 "propertyTitleSettingsPropTypeMapService"           = "Kartenauswahl";
-"propertyTitleSettingsPropTypeVoiceAssistantLevel"  = "Level of detail";
+"propertyTitleSettingsPropTypeVoiceAssistantLevel"  = "Detailierungsgrad";
 
 "propertyPlaceholderSettingsPropTypeCurrentUserName"= "";
 
