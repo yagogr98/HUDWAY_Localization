@@ -34,12 +34,12 @@
 "alert purchase error #105 message" = "Nie można połączyć się z App Store";
 
 "purchase sku_ads_disabled title" = "Bez reklam";
-"purchase sku_pro_mode_enabled title" = "PRO Mode";
+"purchase sku_pro_mode_enabled title" = "Wersja PRO";
 
 "purchase sku_ads_disabled description" = "Ciesz się HUDWAY bez reklam i uzyskaj dodatkowe miejsce na ekranie";
-"purchase sku_pro_mode_enabled description" = "Dostosuj widok drogi, niebezpiecznie zakręty, powiadomienia i inne...";
+"purchase sku_pro_mode_enabled description" = "Dostosuj widok drogi, powiadomienia o niebezpiecznych zakrętach i inne...";
 
 "purchase sku_ads_disabled buy button" = "Wyłącz reklamy za %@";
-"purchase sku_pro_mode_enabled buy button" = "Kup PRO Mode za %@";
+"purchase sku_pro_mode_enabled buy button" = "Kup wersję PRO za %@";
 
 "not available alert for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Asystent głosowy jest dostępny tylko od wersji iOS 7.0";
