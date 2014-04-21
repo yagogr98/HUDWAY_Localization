@@ -4,9 +4,9 @@
 "ok button" = "Zrobione";
 
 "user disabled location service alert title" = "Nie można zapisać trasy";
-"user disabled location service for application alert message" = "Proszę zezwolić na dostęp do usług lokalizacyjnych dla tej aplikacji. Idź do Ustawień Usług lokalizacji, znajdź 'Check My Race' i przełącz na 'On'";
-"user disabled location service for device alert message" = "Usługa lokalizacji jest wyłączona. Idź do Ustawień Usług lokalizacji i przełącz na 'On'.";
-"user disabled location service for device alert message android" = "Usługa lokalizacji jest wyłączona. Idź do Ustawień Usług lokalizacji i przełącz na 'On'";
+"user disabled location service for application alert message" = "Przejdź do ustawień usług lokalizacji i zezwól tej aplikacji na lokalizację.";
+"user disabled location service for device alert message" = "Usługa lokalizacji jest wyłączona. Przejdź do ustawień i włącz GPS.";
+"user disabled location service for device alert message android" = "Usługa lokalizacji jest wyłączona. Przejdź do ustawień i włącz GPS.";
 
 "no free system space alert title" = "Nie można zarejestrować trasy";
 "no free system space alert message" = "Nie masz wystarczająco pamięci by zarejestrować trasę. Miejsce przechowywania może być kontrolowane w ustawieniach";

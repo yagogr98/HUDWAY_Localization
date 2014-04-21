@@ -4,7 +4,7 @@
 
 "lock alert deleting stage"     = "Usuwanie...";
 
-"empty stages description"      = "To jest miejsce\ngdzie Twoje drogi\nzostaną pokazane\n\n\nNaciśnij \"Rejestruj trasę\"\naby utworzyć nową";
+"empty stages description"      = "W tym miejscu\nznajude się lista\nTwoich tras\n\n\nNaciśnij \"Rejestruj trasę\"\naby utworzyć nową";
 
 "loading"    					= "Ładowanie...";
 
