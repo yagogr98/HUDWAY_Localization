@@ -9,7 +9,7 @@
 "StageController Page_iPhone"       = "Route";
 
 "not in start place alert text"                 = "Sie sind nicht an der Startposition";
-"not in start place for countdown alert text"   = "To start with countdown, you must be at the starting point";
+"not in start place for countdown alert text"   = "Um den Countdown zu starten, müssen Sie sich an der Startposition befinden";
 
 "ok button"                         = "Ok";
 "start button"                      = "Route starten";
