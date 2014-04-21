@@ -1,30 +1,30 @@
-"straight direction" = "straight";
+"straight direction" = "geradeaus";
 "left direction" = "links";
 "rigth direction" = "rechts";
 
-"easy difficult" = "leicht";
-"medium difficult" = "middle";
-"hard difficult" = "schwierig";
+"easy difficult" = "leicht Strecke";
+"medium difficult" = "mittlere Schwierigkeit";
+"hard difficult" = "schwierige Strecke";
 "perpendicular difficult" = "90 degree";
-"sharp difficult" = "sharp";
-"uturn difficult" = "u-turn";
+"sharp difficult" = "scharfe Kurve";
+"uturn difficult" = "Umkehrmöglichkeit";
 
 "short duration" = "";
 "long duration" = "lang";
 "very long duration" = "sehr lang";
 
-"kilometer" = "kilometer";
-"2-4 kilometers" = "kilometers";
-"kilometers" = "kilometers";
-"meters" = "meters";
-"mile" = "mile";
-"2-4 miles" = "miles";
-"miles" = "miles";
-"yards" = "yards";
-"foots" = "foots";
-"connection between units" = "and";
+"kilometer" = "Kilometer";
+"2-4 kilometers" = "Kilometer";
+"kilometers" = "Kilometer";
+"meters" = "Meter";
+"mile" = "Meile";
+"2-4 miles" = "Meilen";
+"miles" = "Meilen";
+"yards" = "Yards";
+"foots" = "Fuss";
+"connection between units" = "und";
 
-"connection between maneuvers" = " and then ";
+"connection between maneuvers" = " und dann ";
 "in finish" = "Sie haben das Ziel erreicht";
-"to finish description" = "to finish";
-"big maneuvers bundle description" = " and then, attention, bunch of complicated turns";
+"to finish description" = "Beenden";
+"big maneuvers bundle description" = " und dann, Vorsicht, mehrere unübersichtliche Kurven";
