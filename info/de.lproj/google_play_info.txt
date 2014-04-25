@@ -1,41 +1,48 @@
 Google Play Application title:
-Hudway BETA — HUD for drivers
+Hudway BETA—HUD für Autofahrer
 
 Google Play Application description:
-HUDWAY is a free augmented reality app that helps drivers follow directions in fog, snow, rain and at night via windshield projections.
+HUDWAY ist ein einzigartiges Head-Up Display das dem Fahrer den weiteren Strassenverlauf bei schlechter Sicht (Nacht, Regen, Nebel, Schnee) anzeigt und damit das Fahren sicherer macht. Dafür ist keine weitere Ausrüstung erforderlich.
 
-«HUDWAY turns your windshield into a jet fighter cockpit»
-— digitaltrends.com
-
-«The Hudway HUD tool will remind you nothing less than a science fiction movie that you watched recently»
-— crazyengineers.com
-
-«Looks awesome, and it's surprising that no one come up with that kind of app before. HUDWAY can do what others can't»
+«Sieht toll aus und es überrascht, dass bisher niemand auf die Idee für eine derartige App gekommen ist. HUDWAY kann, was andere nicht können.»
 — lifehacker.ru
 
-«HUDWAY is a rare case of a really elegant and unexpected use of smartphone»
+«HUDWAY ist einer der wenigen Fälle, wie ein Smartphone einfach und unerwartet genutzt werden kann»
 — Apple community @ vk.com
 
-With the HUDWAY app, drivers can now navigate the road with both hands on the wheel and mind on driving. HUDWAY outlines the road ahead with turn-by-turn directions, and displays it on the windshield using head-up technology — details like speed, distance, and driving instructions are displayed in different light.
+«Wenn Sie sich kein Premium Klasse Auto mit eingebautem Head-Up Display leisten können, dann nutzen Sie bedenkenlos HUDWAY gratis. Eine tolle Lösung.»
+— Gazeta.Ru
 
-If you are foreign to concept of head-up technology, it is a display that presents information without requiring users to look away from their usual viewpoints.
+«Augmented Reality direkt auf der Windschutzscheibe. Die App ist bei Nacht und Nebel sehr hilfreich, sie ist "cool" und sieht toll aus.»
+— Vybiray magazine, 1-15 September 2013
 
-It works off the back of Google Map and services. You build a route on the map, which the app then preloads so it can be used offline — useful if connection is intermittent or you don't want to use data.
+Viele von uns sind Autofahrer. Normalerweise fahren wir gerne - es ist bequem, schnell und macht Spass. Aber bei Regen, Schneefall, Nebel oder wenn es auch nur dunkel ist, kann Autofahren auch gefährlich sein. Und diese Gefahr entsteht durch die eingeschränkte Sicht auf den Strassenverlauf, normalerweise 20 bis 50 Meter (60 - 150 Fuß). Es kann geradeaus gehen oder eine scharfe Kurve kommen.    
 
-The HUDWAY does not require any other equipment other than your smartphone. Just place your phone on the dashboard and the glare from the window will reflect what is displayed on the screen of the phone. This feature would work best in low visibility conditions, such as nighttime, rain, fog, or even heavy snow.
+Beim Fahren bei schlechter Sicht ist die ganze Aufmerksamkeit auf die Strasse gerichtet. Es ist schwierig, zusätzlich auf Sprachanweisungen oder auch Kartendarstellungen regulärer Navigationssysteme zu reagieren. 
 
-Attention: This app uses a background mode. Continued use of GPS and Audio-services running in the background can dramatically decrease battery life.
+HUDWAY ist einfach einzusetzen — nur das Smartphone mit aktiviertem HUDWAY aufs Armaturenbrett legen. Ein Reflexionsbild mit dem Strassenverlauf erscheint auf der Windschutzscheibe. Ein Head-Up Display (HUD), wie es in Militärflugzeugen üblich ist steht Ihnen in Ihrem Auto zur Verfügung.
 
-Join our Facebook page:
-https://www.facebook.com/hudwayapp
+HUDWAY bietet Ihnen 3 wesentliche Leistungen:
+1) Head-Up Display im Auto; 
+2) Sicherheit; 
+3) und Navigation... 
 
-Follow us on Twitter:
-https://twitter.com/hudwayapp
+Es ist gratis, einfach zu bedienen, immer dabei und Sie müssen nicht mehr im Blindflug fahren. 
 
-For more information visit our homepage:
-http://hudwayapp.com
+Die Eule ist das Symbol unserer App. Holen Sie sich eine der Fähigkeiten der Eule, die diese zur Jagd bei Nacht nutzt und erhalten Sie vergleichbare Möglichkeiten.
 
-Drive Safely!
+Achtung: Diese App läuft auch im Hintergrund. Ständgiges Nutzen von GPS und Audioansagen kann die Batterielaufzeit signifikant reduzieren.
+
+Trete unserer Facebook Seite bei: 
+https://www.facebook.com/hudwayapp 
+
+Folge uns auf Twitter: 
+https://twitter.com/hudwayapp 
+
+Mehr Informationen finden sich auf unserer Web-Seite: 
+http://hudwayapp.com 
+
+Fahre vorsichtig!
 
 Google Play Application merchandise message:
-HUDWAY road windshield projection Head-Up Display HUD for drivers
+HUDWAY der Weg auf der Windschutzscheibe - Head-Up Display HUD für Autofahrer
