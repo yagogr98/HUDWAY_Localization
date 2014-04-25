@@ -28,3 +28,6 @@
 "to finish description" = "до точки назначения";
 "in finish" = "Вы прибыли в точку назначения";
 "big maneuvers bundle description" = " и затем, внимание, сложная связка поворотов";
+"is out of way" = "вы ушли с маршрута";
+"track recalculating" = "пересчитываю";
+"finish track recalculating" = "пересчет окончен";

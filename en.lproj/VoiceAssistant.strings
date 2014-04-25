@@ -28,3 +28,6 @@
 "to finish description" = "to finish";
 "in finish" = "you have arrived at the destination";
 "big maneuvers bundle description" = " and then, attention, bunch of complicated turns";
+"is out of way" = "you left from the route";
+"track recalculating" = "recalculate the route";
+"finish track recalculating" = "recalculation of the route is ended";
