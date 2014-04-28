@@ -1,9 +1,9 @@
 "no button"             = "No";
-"yes button"            = "Yes";
-"cancel button"         = "Cancel";
-"done button"           = "Done";
-"close button"          = "Close";
-"delete button"         = "Delete";
+"yes button"            = "Si";
+"cancel button"         = "Cancelar";
+"done button"           = "Hecho";
+"close button"          = "Cerrar";
+"delete button"         = "Borrar";
 
-"authorization title"   = "Authorization";
-"info title"            = "Notice";
+"authorization title"   = "Autorización";
+"info title"            = "Alerta";
