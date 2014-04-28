@@ -1,19 +1,19 @@
-"SurfaceType0" = "Gravel";
+"SurfaceType0" = "Grava";
 "SurfaceType1" = "Tarmac";
-"SurfaceType2" = "Ice";
-"SurfaceType3" = "Forest";
-"SurfaceType4" = "Water";
-"SurfaceType5" = "Air";
+"SurfaceType2" = "Hielo";
+"SurfaceType3" = "Monte";
+"SurfaceType4" = "Agua";
+"SurfaceType5" = "Aire";
 
-"VehicleType0" = "Car";
-"VehicleType1" = "Motorcycle";
-"VehicleType2" = "Bicycle";
-"VehicleType3" = "Run/Walk";
-"VehicleType4" = "Airplane";
-"VehicleType5" = "Helicopter";
+"VehicleType0" = "Coche";
+"VehicleType1" = "Moto";
+"VehicleType2" = "Bicicleta;
+"VehicleType3" = "A pie";
+"VehicleType4" = "Avión";
+"VehicleType5" = "Helicoptero";
 "VehicleType6" = "Ship";
 
-"SpeedUnit0" = "Kilometers";
+"SpeedUnit0" = "Kilometros";
 "SpeedUnit1" = "Miles and yards";
 "SpeedUnit2" = "Miles and feet";
 
