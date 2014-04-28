@@ -1,32 +1,32 @@
-"finish stage win alert title"          = "Congratulations!";
-"finish stage not win alert title"      = "Sorry";
-"finish stage win message format"       = "%@ this is your best route result";
-"finish stage not win message format"   = "Your time is worse than %@";
+"finish stage win alert title"          = "Enhorabuena";
+"finish stage not win alert title"      = "Losiento";
+"finish stage win message format"       = "%@ Este es el mejor resultado";
+"finish stage not win message format"   = "Tu tiempo es peor que el de %@";
 
-"finish geo track alert message"        = "You have arrived at the destination";
+"finish geo track alert message"        = "Has llegado";
 
-"start text"                            = "START!";
+"start text"                            = "YA";
 
-"brightnes label"                       = "Brightness";
-"perspective label"                     = "Camera in advance %@";
+"brightnes label"                       = "Brillo";
+"perspective label"                     = "Avance de la camara %@";
 
-"cancel button"                         = "Cancel";
-"skip button"                           = "Skip";
-"recalculation button"                  = "Recalculate";
-"close button"                          = "Close";
+"cancel button"                         = "Cancelar";
+"skip button"                           = "Pasar";
+"recalculation button"                  = "Recalcular";
+"close button"                          = "Cerrar";
 "hud page button"                       = "HUD";
-"map page button"                       = "Map";
+"map page button"                       = "Mapa";
 "hud button"                            = "Head-Up Display Mode";
 
-"insert into route description"         = "Enter on route to start";
+"insert into route description"         = "Entra en la ruta para empezar";
 "out of route description"              = "You left from\r\nthe route!";
 "recalculate route description"         = "Route\r\nrecalculation";
 "bad internet connection description"   = "Bad internet connection";
 
 "close alert title"                     = "Select before exiting";
-"cancel button"                         = "Cancel";
-"save button"                           = "Save";
-"don't save button"                     = "Don't save";
+"cancel button"                         = "Cancelar";
+"save button"                           = "Guardar";
+"don't save button"                     = "No guardar";
 
-"lock alert deleting stage result"      = "Delete data...";
-"lock alert deleted stage result"       = "Done!";
+"lock alert deleting stage result"      = "eliminar data...";
+"lock alert deleted stage result"       = "Hecho!";
