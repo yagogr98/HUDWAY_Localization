@@ -1,15 +1,15 @@
-"page title" = "Make a Route";
+"page title" = "Créa una ruta";
 
-"back button" = "Back";
-"cancel button" = "Cancel";
+"back button" = "Atrás";
+"cancel button" = "Cancelar";
 
 "search address placeholer" = "Enter address";
 
-"lock alert get location" = "Get location...";
+"lock alert get location" = "localización actual...";
 
-"empty addresses description" = "Address not found";
+"empty addresses description" = "Dirección no encontrada";
 
-"history addresses title" = "Frequent addresses";
+"history addresses title" = "Direcciones frecuentes";
 
-"voice recording description" = "Speak...";
-"voice recognition description" = "Processing...";
+"voice recording description" = "Habla...";
+"voice recognition description" = "Procesando...";
