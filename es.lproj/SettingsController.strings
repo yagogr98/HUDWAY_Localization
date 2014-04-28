@@ -5,9 +5,9 @@
   Created by Kirill Frolov on 29.01.13.
 
 */
-"SettingsController Page_iPhone"  = "Settings";
+"SettingsController Page_iPhone"  = "Ajustes";
 
-"map settings title" = "MAPS & DIRECTIONS";
-"voice assistant settings title" = "VOICE ASSISTANT";
+"map settings title" = "Mapas y direcciones";
+"voice assistant settings title" = "Asistente de voz";
 
-"auto lock settings description" = "Set the auto-lock so the screen will not turn off while driving";
+"auto lock settings description" = "Selecciona esta opción para evitar que la pantalla se apague";
