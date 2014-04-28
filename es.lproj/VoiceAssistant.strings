@@ -1,33 +1,33 @@
-"straight direction" = "straight";
-"left direction" = "left";
-"rigth direction" = "right";
+"straight direction" = "Continue";
+"left direction" = "Izquierda";
+"rigth direction" = "Derecha";
 
-"easy difficult" = "easy";
-"medium difficult" = "middle";
-"hard difficult" = "hard";
-"perpendicular difficult" = "90 degree";
+"easy difficult" = "Facil";
+"medium difficult" = "media dificultad";
+"hard difficult" = "Dificil";
+"perpendicular difficult" = "90 grados";
 "sharp difficult" = "sharp";
-"uturn difficult" = "u-turn";
+"uturn difficult" = "Giro en "u"";
 
 "short duration" = "";
-"long duration" = "long";
-"very long duration" = "very long";
+"long duration" = "largo";
+"very long duration" = "muy largo";
 
-"kilometer" = "kilometer";
-"2-4 kilometers" = "kilometers";
-"kilometers" = "kilometers";
-"meters" = "meters";
+"kilometer" = "kilometro";
+"2-4 kilometers" = "kilometros";
+"kilometers" = "kilometros";
+"meters" = "metros";
 "mile" = "mile";
 "2-4 miles" = "miles";
 "miles" = "miles";
 "yards" = "yards";
 "foots" = "foots";
-"connection between units" = "and";
+"connection between units" = "y";
 
-"connection between maneuvers" = " and then ";
-"to finish description" = "to finish";
+"connection between maneuvers" = "y después";
+"to finish description" = "Para acabar";
 "in finish" = "you have arrived at the destination";
-"big maneuvers bundle description" = " and then, attention, bunch of complicated turns";
-"is out of way" = "you left from the route";
-"track recalculating" = "recalculate the route";
-"finish track recalculating" = "recalculation of the route is ended";
+"big maneuvers bundle description" = " Atención, llegan giros complicados";
+"is out of way" = "Te has ido de la ruta";
+"track recalculating" = "Recalculando la ruta";
+"finish track recalculating" = "La ruta se recalculó";
