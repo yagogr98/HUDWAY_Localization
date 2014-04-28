@@ -6,14 +6,14 @@
 "Miles in hour short" = "mph";
 "Kilometers in hour short" = "km/h";
 
-"in start place label text"         = "You are at the start point";
-"to start label format"             = "%@ to start point";
+"in start place label text"         = "Estas en el punto de salida";
+"to start label format"             = "%@ al punto de salida";
 
 "current location title"            = "Current location";
 
-"default stage name format"         = "Route %d";
+"default stage name format"         = "Routa %d";
 
-"start point title" = "Start";
-"finish point title" = "End";
+"start point title" = "Comenzar en";
+"finish point title" = "Llegada a";
 
 "unknown distance" = "--";
