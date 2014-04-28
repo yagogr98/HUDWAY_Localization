@@ -1,33 +1,33 @@
-"RoutingController Page_iPhone" = "Build a route";
+"RoutingController Page_iPhone" = "Cre"a una ruta";
 
-"from placeholder" = "From";
-"to placeholder" = "To";
+"from placeholder" = "Desde";
+"to placeholder" = "Hasta";
 
-"create route button" = "Build a route";
-"start ride to route button" = "Start";
-"cancel button" = "Cancel";
+"create route button" = "Crea una ruta";
+"start ride to route button" = "Empezar";
+"cancel button" = "Cancelar";
 
-"set start position button" = "Directions from Here";
-"set finish position button" = "Directions to Here";
+"set start position button" = "Ruta desde aquí";
+"set finish position button" = "Ruta hasta aquí";
 
-"lock alert get current location" = "Get current location...";
-"lock alert get geo tracks" = "Building a route...";
-"lock alert preparation to start" = "Preparing the route...";
+"lock alert get current location" = "Usar tu localización";
+"lock alert get geo tracks" = "Creando la ruta...";
+"lock alert preparation to start" = "Preparando la ruta...";
 
-"lock alert get extended geo track" = "Loading a route...";
-"lock alert get extended geo track progress format" = "Progress — %d%%";
+"lock alert get extended geo track" = "Cargando la ruta...";
+"lock alert get extended geo track progress format" = "Progreso — %d%%";
 
-"lock alert save geo track" = "Saving a route...";
-"lock alert save geo track success" = "Saved in routes";
+"lock alert save geo track" = "Guardando la ruta...";
+"lock alert save geo track success" = "Guardado";
 
-"empty stages description" = "There are currently no recorded routes\n\nYou can create new route by tapping the button below";
-"empty stages button" = "Record a route!";
+"empty stages description" = "No hay ninguna ruta disponible";
+"empty stages button" = "Graba una ruta";
 
-"find address name title" = "      searching...";
+"find address name title" = "      Buscando...";
 
 "map action sheet title" = "";
 
-"start title" = "Start:";
-"finish title" = "End:";
+"start title" = "Comienzo:";
+"finish title" = "Final:";
 
-"unknow address title" = "Unknow address";
+"unknow address title" = "No se encuentra la localización";
