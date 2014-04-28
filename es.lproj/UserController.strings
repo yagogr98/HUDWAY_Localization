@@ -1,11 +1,11 @@
-"UserController Page_iPhone"    = "Profile";
+"UserController Page_iPhone"    = "Perfil";
 
 "log in button title"           = "Log In";
 "log out button title"          = "Log Out";
 
 "lock alert log in start"       = "Login...";
 "lock alert log out start"      = "Logout...";
-"lock alert log in success"     = "Login success";
-"lock alert log out success"    = "Successfully logged out";
+"lock alert log in success"     = "Hecho";
+"lock alert log out success"    = "Hecho";
 
-"back button"                   = "Back";
+"back button"                   = "Atrás";
