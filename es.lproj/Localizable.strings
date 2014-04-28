@@ -1,28 +1,28 @@
 "track table cell title format" = "%@ in %@";
 
-"back button" = "Back";
-"cancel button" = "Cancel";
+"back button" = "Atrás";
+"cancel button" = "Cancelar";
 "no button" = "No";
-"yes button" = "Yes";
+"yes button" = "Si";
 
-"my stage results title format" = "My results: %d";
-"my stage results description format" = "time %@ / avg. speed %@";
+"my stage results title format" = "Mis resultados: %d";
+"my stage results description format" = "Tiempo %@ / Velocidad media %@";
 
-"leaderboard wait title" = "Please wait...";
-"leaderboard wait description" = "get data";
+"leaderboard wait title" = "Porfavor, espera...";
+"leaderboard wait description" = "Descargar Data";
 
-"leaderboard title format" = "Best result %@";
-"leaderboard description format" = "for %@ of %d results";
+"leaderboard title format" = "Mejor resultado %@";
+"leaderboard description format" = "Para %@ de %d resultados";
 
-"leaderboard not available title" = "Leader board is not available";
-"leaderboard not available description" = "can't get data";
+"leaderboard not available title" = "Tabla no disponible";
+"leaderboard not available description" = "No se puede descargar el data";
 
-"alert remote service error message" = "Can't get data. Error with Internet connection";
+"alert remote service error message" = "No se puede descargar el data. Error con la conexión a internet";
 "alert exit message android" = "Do you want to exit?";
 
-"cancel alert title" = "Cancel?";
+"cancel alert title" = "¿Cancelar?";
 
-"loading progress label" = "Loading...";
+"loading progress label" = "Cargando...";
 
-"ok button" = "OK";
+"ok button" = "Vale";
 
