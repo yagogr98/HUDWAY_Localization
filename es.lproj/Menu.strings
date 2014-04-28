@@ -2,12 +2,12 @@
   Menu.strings
   CityRacer
 
-  Created by Kirill Frolov on 28.01.13.
+  Creado por Kirill Frolov on 28.01.13.
 
 */
 
-"MyStagesMenuItem"  = "Routes";
-"NearbyMenuItem"    = "Explore";
-"StoreMenuItem"     = "Upgrade";
-"SettingsMenuItem"  = "Settings";
-"RoutingMenuItem"   = "Build a route";
+"MyStagesMenuItem"  = "Rutas";
+"NearbyMenuItem"    = "Explorar";
+"StoreMenuItem"     = "Mejorar aplicación";
+"SettingsMenuItem"  = "Ajustes";
+"RoutingMenuItem"   = "Crear una ruta";
