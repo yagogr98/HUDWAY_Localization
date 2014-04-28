@@ -20,25 +20,25 @@
 "purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "PRO bundle (todo en uno)";
 
 "purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "Disfruta de HUDWAY sin anuncios y en pantalla completa";
-"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant description" = "Hudway Voice Assistant alerts you on every dangerous curve on the road ahead, creating an audio-image to hear for the next one-two turns";
-"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures description" = "Want different road style? With this upgrade you will be able to customize the view of the road and its turns. Every new style will be available here";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "Get all upgrades as one bundle by special price. Every new will be available to PRO users free-of-charge";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant description" = "El asistente de voz de HUDWAY te ayudara a conducir, avisandote de todas las curvas y situaciones importantes en la carretera";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures description" = "¿Necesitas un estilo distinto? con esta mejora podrás customizar el estilo de la carretera";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "Consigue todas las mejoras en una sola";
 
-"purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Turn off ads for %@";
-"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant buy button" = "Buy for %@";
-"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures buy button" = "Buy for %@";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Buy for %@";
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree buy button" = "Quita la publicidad por %@";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant buy button" = "Comprar por %@";
+"purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures buy button" = "Comprar por %@";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode buy button" = "Comprar por %@";
 
-"alert purchase error #100 message" = "Can't connect to App Store, check in Settings > General > Restrictions that the In-App Purchases is enabled";
-"alert purchase error #105 message" = "Can't connect to App Store";
+"alert purchase error #100 message" = "No se pudo conectar con la AppStore vete a ajustes, General > Restricciones y activa las compras dentro de las apps";
+"alert purchase error #105 message" = "No se pudo conectar con la AppStore";
 
-"purchase sku_ads_disabled title" = "Ad Free";
+"purchase sku_ads_disabled title" = "Modo sin publicidad";
 "purchase sku_pro_mode_enabled title" = "PRO Mode";
 
-"purchase sku_ads_disabled description" = "Enjoy HUDWAY without Ads and get an extra place on the tracking screen";
-"purchase sku_pro_mode_enabled description" = "Customized view of the road, dangerous turns alerts and more...";
+"purchase sku_ads_disabled description" = "Disfruta de HUDWAY sin publicidad y a pantalla completa";
+"purchase sku_pro_mode_enabled description" = "Customiza el estilo de la carretera";
 
-"purchase sku_ads_disabled buy button" = "Turn off Ads for %@";
-"purchase sku_pro_mode_enabled buy button" = "Go PRO for %@";
+"purchase sku_ads_disabled buy button" = "Quitar anuncios por %@";
+"purchase sku_pro_mode_enabled buy button" = "Sé Pro por%@";
 
-"not available alert for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Voice Assistant is only available starting with iOS 7.0";
+"not available alert for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Asistente de voz solo está disponible en iOS 7.0+";
