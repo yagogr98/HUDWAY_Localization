@@ -1,5 +1,5 @@
-"error #300 message" = "Unable to log in Facebook. An error in Internet connection";
-"error #301 message" = "Unable to Log in. Switch Facebook application to On in System Facebook Settings";
-"error #303 message" = "Unable to publish action to Facebook. Try again later";
+"error #300 message" = "No se pudo iniciar sesión en Facebook, Ocurrió un error en la conexió con el Servidor";
+"error #301 message" = "Unable to Log in. Activa la autorización de Facebook en Ajustes";
+"error #303 message" = "Ocurrió un error al enviar el mensaje a Facebook. Prueba denuevo más tarde";
 
-"action FBSocialActionPostStageResult description" = "Sharing to Facebook...";
+"action FBSocialActionPostStageResult description" = "Compartiendo a Facebook...";
