@@ -1,11 +1,11 @@
 "page title"    = "New route";
 
-"can't save stage text"             = "Can't save route with empty name";
-"alert delete title"                = "Delete route?";
+"can't save stage text"             = "Introduce un nombre";
+"alert delete title"                = "¿Eliminar ruta?";
 "alert delete message"              = "";
 
-"cancel button"                     = "Cancel";
-"save button"                       = "Add";
+"cancel button"                     = "Cancelar";
+"save button"                       = "Añadir";
 
-"lock alert get address"            = "Get address...";
-"lock alert deleting stage result"  = "Delete data...";
+"lock alert get address"            = "Desgargar dirección...";
+"lock alert deleting stage result"  = "Eliminar data...";
