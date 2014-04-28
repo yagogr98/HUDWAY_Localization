@@ -8,8 +8,8 @@
 
 "post stage tweet format" = "Drove to %@ with #HUDWAY app. Distance %@, Time %@, Avr. speed %@ %@";
 
-"error #310 message" = "Unable to log in Twitter. An error in Internet connection";
-"error #311 message" = "Unable to log in. In System Twitter is not set";
-"error #312 message" = "Unable to publish action to Twitter. Try again later";
+"error #310 message" = "No se pudo conectar con Twitter, comprueba tu conexion a internet";
+"error #311 message" = "No se pudo conectar con el servidor de Twitter, comprueba tu conexion a internet";
+"error #312 message" = "No se pudo conectar con Twitter";
 
-"action TWSocialActionPostStageResult description" = "Sharing to Twitter..";
+"action TWSocialActionPostStageResult description" = "Compartiendo en Twitter..";
