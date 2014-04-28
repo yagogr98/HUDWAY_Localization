@@ -1,17 +1,17 @@
-"title"                             = "Route recording";
-"time title"                        = "Time";
-"speed title"                       = "Speed";
-"distance title"                    = "Distance";
+"title"                             = "Grabando ruta";
+"time title"                        = "Tiempo";
+"speed title"                       = "Velocidad";
+"distance title"                    = "Distancia";
 
-"alert delete title"                = "Delete data?";
-"alert delete message"              = "Cancel will erase all travel data on the route";
+"alert delete title"                = "¿Eliminar?";
+"alert delete message"              = "Si cancelas se eliminaran todos los datos";
 
-"start text"                        = "START!";
+"start text"                        = "YA!";
 
-"finish button"                     = "Finish!";
-"cancel button"                     = "Cancel";
+"finish button"                     = "Final";
+"cancel button"                     = "Cancelar";
 
-"skip button"                       = "Skip";
+"skip button"                       = "Pasar";
 
-"lock alert deleting stage result"  = "Deleting data...";
-"lock alert deleted stage result"   = "Done!";
+"lock alert deleting stage result"  = "Borrando...";
+"lock alert deleted stage result"   = "Hechando!";
