@@ -1,26 +1,25 @@
-"purchased title" = "Purchased!";
-"loading product price title" = "Loading price...";
+"purchased title" = "Comprado";
+"loading product price title" = "Cargando precio";
 
-"need purchase alert title" = "Action is not available";
-"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "For this action is necessary to buy \"Pro Mode\" in additional upgrade";
-"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "For this action is necessary to buy \"Voice assistant\" in additional upgrade";
+"need purchase alert title" = "Acción no disponible;
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "Es necesario "Pro-Mode" para ejecutar esta acción";
+"need purchase alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Es necesario Comprar \"Asistente de voz\"";
 
 "promotion alert title for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "PRO mode";
-"promotion alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "PRO mode functions are not purchased. Demonstration mode will enable it for 5 minutes only";
+"promotion alert message for product com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures" = "Pro Mode no está activado, tiene un periodo de prueba de 5min";
 
-"promotion alert title for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Voice assistant";
-"promotion alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Voice assistant are not purchased. Demonstration mode will enable it for 5 minutes only";
-
+"promotion alert title for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "Asistente de voz";
+"promotion alert message for product com.RITLLC.HudWay.NonConsumable.VoiceAssistant" = "No ha comprado el asistente de voz, tiene un periodo de prueba de 5min";
 "cancel button" = "Cancel";
 "store button" = "Buy";
 "accept promotion button" = "OK";
 
-"purchase com.RITLLC.HudWay.NonConsumable.AdFree title" = "Ad Free";
-"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant title" = "Voice assistant (co-driver)";
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree title" = "Sin publicidad";
+"purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant title" = "Asistente de voz (co-piloto)";
 "purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures title" = "Plus +";
-"purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "PRO bundle (all-in-one)";
+"purchase com.RITLLC.HudWay.NonConsumable.ProMode title" = "PRO bundle (todo en uno)";
 
-"purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "Enjoy HUDWAY without Ads and get an extra place on the tracking screen";
+"purchase com.RITLLC.HudWay.NonConsumable.AdFree description" = "Disfruta de HUDWAY sin anuncios y en pantalla completa";
 "purchase com.RITLLC.HudWay.NonConsumable.VoiceAssistant description" = "Hudway Voice Assistant alerts you on every dangerous curve on the road ahead, creating an audio-image to hear for the next one-two turns";
 "purchase com.RITLLC.HudWay.NonConsumable.DrawRouteFeatures description" = "Want different road style? With this upgrade you will be able to customize the view of the road and its turns. Every new style will be available here";
 "purchase com.RITLLC.HudWay.NonConsumable.ProMode description" = "Get all upgrades as one bundle by special price. Every new will be available to PRO users free-of-charge";
