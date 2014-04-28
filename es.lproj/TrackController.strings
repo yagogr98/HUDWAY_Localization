@@ -1,25 +1,24 @@
-"back button"                               = "Back";
-
+"back button"                               = "Atrás":
 "share label text"                          = "";
 
-"cancel button"                             = "Cancel";
+"cancel button"                             = "Cancelar";
 "ok button"                                 = "OK";
-"publish to remote service button"          = "Send to hudwayapp.com";
-"republish to remote service button"        = "Resend to hudwayapp.com";
-"send to email button"                      = "Share via e-mail";
-"open in browser button"                    = "Open in Safari";
-"open in browser button android"            = "Open in Browser";
-"delete button title"                       = "Delete";
+"publish to remote service button"          = "Enviar a hudwayapp.com";
+"republish to remote service button"        = "Reenviar a hudwayapp.com";
+"send to email button"                      = "Compartir via e-mail";
+"open in browser button"                    = "Abrir en Safari";
+"open in browser button android"            = "Abrir en Browser";
+"delete button title"                       = "Borrar";
 
-"lock alert publish start"                  = "Publishing route results...";
-"lock alert send to facebook start"         = "Sharing to Facebook...";
-"lock alert send to twitter start"          = "Sharing to Twitter...";
-"lock alert publish success"                = "Success!";
-"lock alert deleting stage result"          = "Deleting...";
-"lock alert deleted stage result"           = "Done!";
-"lock alert saving track"                   = "Saving...";
+"lock alert publish start"                  = "Publicando...";
+"lock alert send to facebook start"         = "Compartiendo a Facebook...";
+"lock alert send to twitter start"          = "Compartiendo a Twitter...";
+"lock alert publish success"                = "Hecho!";
+"lock alert deleting stage result"          = "Borrando...";
+"lock alert deleted stage result"           = "Hecho!";
+"lock alert saving track"                   = "Guardando...";
 
-"alert delete title"                        = "Delete route results?";
+"alert delete title"                        = "¿Borrar?";
 "alert delete message"                      = "There will delete all travel data on the route";
 
-"share with friends title"                  = "Share";
+"share with friends title"                  = "Compartir";
